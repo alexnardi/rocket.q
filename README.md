@@ -1,10 +1,6 @@
 Rocket.Q
-Tecnologias   |    Projeto   |    Layout   |    Licença
 
-PRs welcome! License
-
-
-Rocket.Q
+![image](https://user-images.githubusercontent.com/74261712/137648748-c9299e1a-9aad-4f9e-808b-5393a40062bb.png)
 
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
