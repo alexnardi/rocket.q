@@ -36,7 +36,7 @@ deleteButton.forEach(button => {
     modalTitle.innerHTML = `${text} esta pergunta`
     modalDescription.innerHTML = `Tem certeza que deseja ${text.toLocaleLowerCase()} essa pergunta?`
     modalButton.innerHTML = `Sim, ${text.toLowerCase()}`
-    check? modalButton.classList.remove("red") : modalButton.classList.add("red")
+    check ? modalButton.classList.remove("red") : modalButton.classList.add("red")
 
     // abrir modal
     modal.open()
